@@ -12,7 +12,7 @@ step 1.)
 Then open GitHub Desktop)
 [On left:]
 Changes
->> xxx.xx  +     	#select changes file "+" "-", and give specified summary and descriptions. 
+>> xxx.xx  +     	#select changes file "+" "-"".", and give specified summary and descriptions. 
 [On left bottom:]
 >> Create xxx.xx
 >> Description
