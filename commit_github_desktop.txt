@@ -1,0 +1,25 @@
+Use " Open with GitHub Desktop" to build local  "< >Code"
+After you downloaded GitHub Desktop in your computer,
+
+step 0.)
+press "< >Code" 
+>> " Open with GitHub Desktop"
+>> Choose your file on your local computer to connect.
+
+
+step 1.) 
+(create a new xxx.xx file under the selected local file,
+Then open GitHub Desktop)
+[On left:]
+Changes
+>> xxx.xx  +     	#press "+" to add file
+[On left bottom:]
+>> Create xxx.xx
+>> Description
+>> Commit to main !!!!
+
+("merge" first, and then "push" changes)
+
+step 2.)
+[On upper right:]
+press "Push origin"
