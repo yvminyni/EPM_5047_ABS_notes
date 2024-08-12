@@ -1,10 +1,10 @@
-# EPM_7010_ABS_notes
-EPM 7010 Applied Bayesian Statistical Notes
+# EPM_5047_ABS_notes
+EPM 5047 Applied Bayesian Statistical Analysis Notes
 
 
 - Installation instructions:
     
-  [Install_instruction_2024.ipynb](https://github.com/yvminyni/EPM_7010_ABS_notes/blob/main/Install_instruction_2024_0723.ipynb)
+  [Install_instruction_2024.ipynb](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/Install_instruction_2024_0723.ipynb)
 
 - Examples:
 
