@@ -1,6 +1,10 @@
 # EPM_5047_ABS_notes
 EPM 5047 Applied Bayesian Statistical Analysis Notes
 
+pymc_environment.yml:
+
+![pymc_env_yml](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/ABS_picture/create_environment_yml.jpg)
+
 
 - Installation instructions:
     
