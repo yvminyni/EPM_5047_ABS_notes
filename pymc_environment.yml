@@ -1,4 +1,4 @@
-name: pymc_env_2024
+name: pymc_env2
 channels:
   - conda-forge
   - defaults
@@ -26,7 +26,7 @@ dependencies:
   - cached_property=1.5.2=pyha770c72_1
   - cachetools=5.4.0=pyhd8ed1ab_0
   - cairo=1.18.0=h91e5215_2
-  - certifi=2024.7.4=pyhd8ed1ab_0
+  - certifi=2024.7.4=py311haa95532_0
   - cffi=1.17.0=py311he736701_0
   - charset-normalizer=3.3.2=pyhd8ed1ab_0
   - cloudpickle=3.0.0=pyhd8ed1ab_0
@@ -222,6 +222,7 @@ dependencies:
   - python=3.11.6=h2628c8c_0_cpython
   - python-dateutil=2.9.0=pyhd8ed1ab_0
   - python-fastjsonschema=2.20.0=pyhd8ed1ab_0
+  - python-graphviz=0.20.3=pyh717bed2_0
   - python-json-logger=2.0.7=pyhd8ed1ab_0
   - python-tzdata=2024.1=pyhd8ed1ab_0
   - python_abi=3.11=4_cp311
@@ -237,6 +238,7 @@ dependencies:
   - rfc3986-validator=0.1.1=pyh9f0ad1d_0
   - rpds-py=0.20.0=py311h533ab2d_0
   - scipy=1.11.3=py311h0b4df5a_1
+  - seaborn=0.13.2=py311haa95532_0
   - send2trash=1.8.3=pyh5737063_0
   - setuptools=72.1.0=pyhd8ed1ab_0
   - sip=6.7.12=py311h12c1d0e_0
@@ -264,6 +266,7 @@ dependencies:
   - vc=14.3=h8a93ad2_20
   - vc14_runtime=14.40.33810=ha82c5b3_20
   - vs2015_runtime=14.40.33810=h3bf8584_20
+  - watermark=2.4.3=pyhd8ed1ab_0
   - wcwidth=0.2.13=pyhd8ed1ab_0
   - webcolors=24.8.0=pyhd8ed1ab_0
   - webencodings=0.5.1=pyhd8ed1ab_2
@@ -293,18 +296,5 @@ dependencies:
   - zstandard=0.23.0=py311h53056dc_0
   - zstd=1.5.6=h0ea2cb4_0
   - pip:
-      - bambi==0.13.0
-      - formulae==0.5.4
-      - joblib==1.4.2
-      - kulprit==0.0.1
-      - nutpie==0.9.1
-      - polars==1.4.1
-      - preliz==0.3.6
-      - pyarrow==17.0.0
-      - pymc-bart==0.5.2
-      - python-graphviz==0.20.3
-      - scikit-learn==1.5.1
-      - seaborn==0.13.2
-      - threadpoolctl==3.5.0
-      - watermark==2.4.3
-prefix: C:\Users\Yvonne\anaconda3\envs\pymc_env_2024
+      - polars==1.5.0
+prefix: C:\Users\Yvonne\anaconda3\envs\pymc_env2
