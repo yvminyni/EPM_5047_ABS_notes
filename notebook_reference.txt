@@ -1,0 +1,30 @@
+1.) Anaconda｜在 Jupyter notebook 中建立、移除虛擬環境
+
+https://medium.com/programming-with-data/%E5%9C%A8-jupyter-notebook-%E4%B8%AD%E5%BB%BA%E7%AB%8B-%E7%A7%BB%E9%99%A4%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-6c90c89791a5
+
+2.) Anaconda export Environment file
+
+https://stackoverflow.com/questions/41274007/anaconda-export-environment-file
+
+
+3.) How to Export Your Anaconda Environment: A Step-by-Step Guide
+
+https://pythontwist.com/how-to-export-your-anaconda-environment-a-step-by-step-guide
+
+4.) 
+
+
+
+5.) 
+
+
+
+
+
+
+
+
+
+
+
+
