@@ -1,4 +1,4 @@
-name: pymc_env
+name: pymc_test2
 channels:
   - conda-forge
   - defaults
