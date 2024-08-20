@@ -5,10 +5,15 @@ pymc_environment.yml:
 
 ![pymc_env_yml](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/ABS_picture/create_environment_yml.jpg)
 
+- Alternative environment file: [**bap3.yml**](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/bap3.yml)
+  
+  [Source](https://github.com/aloctavodia/BAP3/tree/main)
 
 - Installation instructions:
     
-  [Install_instruction_2024.ipynb](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/Install_instruction_2024_0723.ipynb)
+  [Install_instruction_2024.ipynb待補連結]
+
+  [Install_instruction_2024_html](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/0820_Install_instruction-output_html.html)
 
 - Examples:
 
