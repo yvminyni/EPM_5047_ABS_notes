@@ -1,13 +1,16 @@
 # EPM_5047_ABS_notes
 EPM 5047 Applied Bayesian Statistical Analysis Notes
 
-pymc_environment.yml:
 
+<!---pymc_environment.yml:
 ![pymc_env_yml](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/ABS_picture/create_environment_yml.jpg)
+--->
 
 - Alternative environment file: [**bap3.yml**](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/bap3.yml)
-  
+
   [Source](https://github.com/aloctavodia/BAP3/tree/main)
+  
+  ![bap3_env](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/ABS_picture/bap3_env.png)
 
 - Installation instructions:
     
@@ -50,3 +53,59 @@ python -m ipykernel install --user --name=pymc_env
 conda activate pymc_env
 conda install -c conda-forge python-graphviz
 ```
+
+----
+## Anaconda Environment Tips
+
+Update to the latest conda version.
+```
+conda update -n base -c defaults conda
+```
+
+Check existing environments. 
+
+Check packages under this activated environment (my_env).
+```
+conda env list
+conda activate my_env
+conda list 
+```
+
+Check existing jupyter kernels. (Kernels you can find when you open jupyter notebook.)
+
+Remove specific kernel (my_kernel).
+```
+jupyter kernelspec list
+jupyter kernelspec remove my_kernel
+```
+Check existing environments. 
+
+Remove specific conda environment (my_env).
+```
+conda env list
+conda env remove --name my_env
+```
+Read the enviornment.yml file through location to create a new environment (myenv_name).
+
+Install ipython kernel for this environment, so that users can find this environment while coding with jupyter notebook.
+```
+conda env create --file C:\Users\User\Desktop\environment.yml --name myenv_name
+ipython kernel install --user --name = myenv_kernelname
+```
+
+Export the environment.
+
+Export the environment without showing up on your local path. (Windows operating system).
+```
+conda env export > environment.yml
+
+conda env export | grep -v "^prefix: " > environment.yml
+```
+The exported environment.yml file would be found at `C:\Users\user`.
+
+
+### Reference:
+1. [Removing Conda environment](https://stackoverflow.com/questions/49127834/removing-conda-environment)
+2. [Anaconda｜在 Jupyter notebook 中建立、移除虛擬環境](https://medium.com/programming-with-data/%E5%9C%A8-jupyter-notebook-%E4%B8%AD%E5%BB%BA%E7%AB%8B-%E7%A7%BB%E9%99%A4%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-6c90c89791a5)
+3. [How to Export Your Anaconda Environment: A Step-by-Step Guide](https://pythontwist.com/how-to-export-your-anaconda-environment-a-step-by-step-guide)
+4. [Anaconda export Environment file](https://stackoverflow.com/questions/41274007/anaconda-export-environment-file)
