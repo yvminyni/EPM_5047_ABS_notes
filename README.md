@@ -6,13 +6,13 @@ EPM 5047 Applied Bayesian Statistical Analysis Notes
 ![pymc_env_yml](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/ABS_picture/create_environment_yml.jpg)
 --->
 
-- Alternative environment file: [**bap3.yml**](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/bap3.yml)
-
-  [Source](https://github.com/aloctavodia/BAP3/tree/main)
+- Alternative environment file: [**bap3.yml**](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/bap3.yml). 
+[Source](https://github.com/aloctavodia/BAP3/tree/main).
   
   <!---![bap3_env](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/ABS_picture/bap3_env.png)--->
+  <div align="center">
   <img src="https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/ABS_picture/bap3_env.png" width="300"  />
-
+  </div>
 - Installation instructions:
     
   [Install_instruction_2024.ipynb待補連結]
