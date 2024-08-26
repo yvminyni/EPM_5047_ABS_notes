@@ -10,7 +10,8 @@ EPM 5047 Applied Bayesian Statistical Analysis Notes
 
   [Source](https://github.com/aloctavodia/BAP3/tree/main)
   
-  ![bap3_env](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/ABS_picture/bap3_env.png)
+  <!---![bap3_env](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/ABS_picture/bap3_env.png)--->
+  <img src="https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/ABS_picture/bap3_env.png" width="300"  />
 
 - Installation instructions:
     
