@@ -1,15 +1,17 @@
 # EPM_5047_ABS_notes
 EPM 5047 Applied Bayesian Statistical Analysis Notes
 
--   
-  YouTube playlist - [PyMC Examples](https://www.youtube.com/playlist?list=PLup8IWMcPX4pOyyDZp_Jn2rutSpIIJnmN).
+  <!---[emoji-cheat-sheet ](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#emoji-cheat-sheet)--->
 
-- Installation instructions:
+
+:space_invader: YouTube playlist - [PyMC Examples](https://www.youtube.com/playlist?list=PLup8IWMcPX4pOyyDZp_Jn2rutSpIIJnmN).
+
+:rocket: Installation instructions:
   [Install instruction 2024-0 連結](https://docs.google.com/document/d/1vAFaA7bBrA4V72iwXyycfAGqQPoxZWb6MxQkEj43A-o/edit?usp=sharing)
 
   <!---[Install_instruction_2024_html](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/0820_Install_instruction-output_html.html) --->
 
-- Colab Examples:
+:flying_saucer: Colab Examples:
   
   點擊 連結 後，於頁面左上角點選 `檔案>>在雲端硬碟中儲存副本`，即可在自己的Google Drive建立筆記本副本變更程式碼實際操作。
 
@@ -75,7 +77,7 @@ conda install -c conda-forge python-graphviz
   (Solution.3) https://blog.csdn.net/qq_45956730/article/details/126689318
 
 ----
-## Anaconda Environment Tips
+## Anaconda Environment Tips :wrench:
 
 Update to the latest conda version.
 ```
