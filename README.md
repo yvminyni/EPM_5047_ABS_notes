@@ -11,8 +11,8 @@ EPM 5047 Applied Bayesian Statistical Analysis Notes
 
   <!---[Install_instruction_2024_html](https://github.com/yvminyni/EPM_5047_ABS_notes/blob/main/0820_Install_instruction-output_html.html) --->
 
-:flying_saucer: Colab Examples:
-  
+- :flying_saucer:Colab Examples:flying_saucer::
+
   點擊 連結 後，於頁面左上角點選 `檔案>>在雲端硬碟中儲存副本`，即可在自己的Google Drive建立筆記本副本變更程式碼實際操作。
 
   - [PyMC Example 1 & 2](https://colab.research.google.com/drive/16ExYLitGks70uWHn8MOoL9JqsjZID6tZ?usp=sharing)
